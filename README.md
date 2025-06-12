@@ -23,14 +23,14 @@ A simple Java command-line application that implements the **Caesar Cipher**, on
 
    ```bash
    cd "C:\Users\Bhaviya\Desktop\caesor cipher"
-##🧰 Tools Used
--Java (JDK 8 or later)
+## 🧰 Tools Used
+- Java (JDK 8 or later)
 
--Command Line (Terminal, CMD, or PowerShell)
+- Command Line (Terminal, CMD, or PowerShell)
 
--Git (for version control and uploading to GitHub)
+- Git (for version control and uploading to GitHub)
 
-##📘 License
+## 📘 License
 This project is for learning and educational purposes only. No license restrictions.
 
 Created by Bhaviya ✨
